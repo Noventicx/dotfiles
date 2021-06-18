@@ -6,7 +6,7 @@ export ZSH="/home/noventicx/.oh-my-zsh"
 
 export PATH="/home/noventicx/.local/bin:$PATH"
 
-export TERM=xterm-kitty
+##export TERM=xterm-kitty
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
