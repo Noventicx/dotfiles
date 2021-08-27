@@ -2,6 +2,6 @@
 ip=192.168.178.65
 
 [lights]
-name = ['Schreibtisch rechts', 'Schrank unten', 'Schrank oben', 'Schreibtisch links', 'Schreibtisch', 'Schreibtischlampe']
+name = ['1', '2', '3', '4', '5', '6']
 brightness = [254, 254, 254, 254, 254, 254]
 colors = ['111111', 'dd8452', '111111', 'dd8452', '111111', 'dd8452']
